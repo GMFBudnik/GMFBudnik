@@ -1,7 +1,7 @@
 ### Olá, eu sou Gabriel Budnik! 
 
 - 📚 estudante de Eng. de Software
-- 🖥️ foco em Flutter e Java
+- 🖥️ foco em Flutter, Java e Python
 - 💼 atualmente atuando como Estagiario de suporte de redes - Policia Cientifica/PR
 
 <div align="center">
