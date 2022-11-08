@@ -2,7 +2,7 @@
 
 - 📚 estudante de Eng. de Software
 - 🖥️ foco em Flutter, Javascript e Python
-- 💼 atuando como estagiário em Data Aanalytics na i-Cherry 🍒
+- 💼 atuando como estagiário em Data Analytics na i-Cherry 🍒
 
 <div align="center">
   <a href="https://github.com/GMFBudnik">
