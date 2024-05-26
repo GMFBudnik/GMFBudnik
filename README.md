@@ -2,7 +2,7 @@
 
 - 📚 estudante de Eng. de Software
 - 🖥️ foco em Flutter, Javascript e Python 
-- 💼 atuando como estagiário em Data Analytics na i-Cherry 🍒 | utilizando ferramentas Google para analise de dados
+- 💼 Atuando como Data Analytics na i-Cherry 🍒 
 
 
   <div style="display: inline_block"><br>
