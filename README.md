@@ -1,9 +1,7 @@
 ### Olá, eu sou Gabriel Budnik! 
-
-- 📚 estudante de Eng. de Software
-- 🖥️ foco em Flutter, Javascript e Python 
-- 💼 Atuando como Data Analytics na i-Cherry 🍒 
-
+ 
+- 💼 Atuando como Analista de Dados e Tracking
+- 🎓 Formado em Engenharia de Software
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
