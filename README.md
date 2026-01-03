@@ -1,6 +1,6 @@
 ### Olá, eu sou Gabriel Budnik! 
  
-- 💼 Atuando como Analista de Dados e Tracking
+- 💼 Atuando como Web Analytics
 - 🎓 Formado em Engenharia de Software
 
   <div style="display: inline_block"><br>
